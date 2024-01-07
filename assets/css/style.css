@@ -31,6 +31,9 @@ body {
   .bg-secondary {
     background-color: #ffbd39 !important;
   }
+  section{
+    width: 100%!important;
+  }
   .flever-content ul li{
     position: relative;
   }
